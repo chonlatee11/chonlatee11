@@ -1,5 +1,5 @@
 # Hi there 👋 , I am Chonlatee
-- I’m currently learning Docker 🐋 & python programming 🐍
+- I’m currently learning Docker 🐋  python programming 🐍 DevOps ♾️ & more
 - I'm interested machine learning & IOT
 - I want to be a data engineer
 - I have a little bit of Frontend skills 😅
