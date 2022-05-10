@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 , I am Chonlatee
+- I’m currently learning Docker 🐋 & python programming 🐍
+- I'm interested machine learning & Cloud-native
+- I want to be a data engineer
+- I have a little bit of Frontend skills 😅 (https://github.com/w3c/html)
+- How to reach me: chonlatee1129@gmail.com
 
 <!--
 **chonlatee11/chonlatee11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
