@@ -1,21 +1,28 @@
-### Hi there 👋 , I am Chonlatee
+# Hi there 👋 , I am Chonlatee
 - I’m currently learning Docker 🐋 & python programming 🐍
-- I'm interested machine learning & Cloud-native
+- I'm interested machine learning & IOT
 - I want to be a data engineer
-- I have a little bit of Frontend skills 😅 (https://github.com/w3c/html)
+- I have a little bit of Frontend skills 😅
 - How to reach me: chonlatee1129@gmail.com
-
-<!--
-**chonlatee11/chonlatee11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages and Tools
+### Language
+<a href="url"><img src="https://github.com/github/explore/blob/main/topics/python/python.png" height="48" width="48" ></a>
+<a href="url"><img src="https://github.com/github/explore/blob/main/topics/java/java.png" height="48" width="48" ></a>
+### frontend
+<a href="url"><img src="https://github.com/github/explore/blob/main/topics/css/css.png" height="48" width="48" ></a>
+<a href="url"><img src="https://github.com/github/explore/blob/main/topics/html/html.png" height="48" width="48" ></a>
+<a href="url"><img src="https://github.com/github/explore/blob/main/topics/javascript/javascript.png" height="48" width="48" ></a>
+### backend
+<a href="url"><img src="https://github.com/github/explore/blob/main/topics/django/django.png" height="48" width="48" ></a>
+### tools
+<a href="url"><img src="https://github.com/github/explore/blob/main/topics/github/github.png" height="48" width="48" ></a>
+<a href="url"><img src="https://github.com/github/explore/blob/main/topics/docker/docker.png" height="48" width="48" ></a>
+<a href="url"><img src="https://github.com/github/explore/blob/main/topics/cli/cli.png" height="48" width="48" ></a>
+<a href="url"><img src="https://github.com/github/explore/blob/main/topics/linux/linux.png" height="48" width="48" ></a>
+<a href="url"><img src="https://github.com/github/explore/blob/main/topics/visual-studio-code/visual-studio-code.png" height="48" width="48" ></a>
+### database
+<a href="url"><img src="https://github.com/github/explore/blob/main/topics/mysql/mysql.png" height="48" width="48" ></a>
+<a href="url"><img src="https://github.com/github/explore/blob/main/topics/firebase/firebase.png" height="48" width="48" ></a>
+<a href="url"><img src="https://github.com/github/explore/blob/main/topics/mongodb/mongodb.png" height="48" width="48" ></a>
+# My github stat
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chonlatee11&theme=bear&show_icons=true&icon_color=DF3C89)](https://github.com/anuraghazra/github-readme-stats)
