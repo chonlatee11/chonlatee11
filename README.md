@@ -1,7 +1,7 @@
 # Hi there 👋 , I am Chonlatee
-- I’m currently learning Docker 🐋  python programming 🐍 DevOps ♾️ & more
-- I'm interested machine learning & IOT
-- I want to be a data engineer
+- I’m currently learning Docker 🐋  python programming 🐍 DevOps ♾️ & more backend
+- I'm interested machine learning & Clound Native
+- I want to be a good DevOps engineer or Backend Deverloper
 - I have a little bit of Frontend skills 😅
 - How to reach me: chonlatee1129@gmail.com
 ## Languages and Tools
