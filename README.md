@@ -3,7 +3,7 @@
 - I'm interested machine learning & Clound Native
 - I want to be a good Backend Deverloper and DevOps engineer  
 - I have a little bit of Frontend skills 😅
-- How to reach me: chonlatee1129@gmail.com
+- How to reach me: chonlatee.khamlue@gmail.com
 ## Languages and Tools
 <a href="url"><img src="https://github.com/github/explore/blob/main/topics/python/python.png" height="48" width="48" ></a>
 <a href="url"><img src="https://github.com/github/explore/blob/main/topics/css/css.png" height="48" width="48" ></a>
